@@ -6,6 +6,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 ## Array
 |  |
 | ------- |
+| [0057-insert-interval](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0066-plus-one) |
 ## Math
 |  |
