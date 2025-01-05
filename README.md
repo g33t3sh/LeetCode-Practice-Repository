@@ -30,6 +30,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0257-binary-tree-paths) |
+| [0386-lexicographical-numbers](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0386-lexicographical-numbers) |
 ## Binary Tree
 |  |
 | ------- |
@@ -42,4 +43,8 @@ A repository for storing solutions to daily LeetCode coding challenges.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0258-add-digits) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
