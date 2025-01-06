@@ -8,6 +8,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 | ------- |
 | [0057-insert-interval](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0066-plus-one) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Math
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0257-binary-tree-paths) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Tree
 |  |
 | ------- |
@@ -47,4 +49,8 @@ A repository for storing solutions to daily LeetCode coding challenges.
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0386-lexicographical-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 <!---LeetCode Topics End-->
