@@ -8,6 +8,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 | ------- |
 | [0057-insert-interval](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0066-plus-one) |
+| [0084-largest-rectangle-in-histogram](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0084-largest-rectangle-in-histogram) |
 | [1524-string-matching-in-an-array](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2358-number-of-ways-to-split-array](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/2358-number-of-ways-to-split-array) |
@@ -68,4 +69,9 @@ A repository for storing solutions to daily LeetCode coding challenges.
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
