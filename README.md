@@ -7,6 +7,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0039-combination-sum) |
+| [0053-maximum-subarray](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0084-largest-rectangle-in-histogram) |
@@ -76,4 +77,12 @@ A repository for storing solutions to daily LeetCode coding challenges.
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0084-largest-rectangle-in-histogram) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
