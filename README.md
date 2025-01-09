@@ -33,6 +33,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 | ------- |
 | [0043-multiply-strings](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0044-wildcard-matching) |
+| [0058-length-of-last-word](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0071-simplify-path) |
 | [0257-binary-tree-paths](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0257-binary-tree-paths) |
 | [1524-string-matching-in-an-array](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/1524-string-matching-in-an-array) |
