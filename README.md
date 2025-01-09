@@ -19,6 +19,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0258-add-digits) |
 ## Backtracking
@@ -30,6 +31,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0043-multiply-strings) |
 | [0071-simplify-path](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0071-simplify-path) |
 | [0257-binary-tree-paths](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0257-binary-tree-paths) |
 | [1524-string-matching-in-an-array](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/1524-string-matching-in-an-array) |
@@ -53,6 +55,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0258-add-digits) |
 ## Number Theory
 |  |
