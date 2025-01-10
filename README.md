@@ -7,6 +7,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0066-plus-one) |
@@ -122,5 +123,6 @@ A repository for storing solutions to daily LeetCode coding challenges.
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0041-first-missing-positive) |
 | [0952-word-subsets](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0952-word-subsets) |
 <!---LeetCode Topics End-->
