@@ -11,6 +11,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 | [0057-insert-interval](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0084-largest-rectangle-in-histogram) |
+| [0952-word-subsets](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -37,6 +38,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 | [0058-length-of-last-word](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0071-simplify-path) |
 | [0257-binary-tree-paths](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0257-binary-tree-paths) |
+| [0952-word-subsets](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -117,4 +119,8 @@ A repository for storing solutions to daily LeetCode coding challenges.
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0044-wildcard-matching) |
+## Hash Table
+|  |
+| ------- |
+| [0952-word-subsets](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0952-word-subsets) |
 <!---LeetCode Topics End-->
