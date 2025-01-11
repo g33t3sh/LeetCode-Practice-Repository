@@ -27,6 +27,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 | ------- |
 | [0043-multiply-strings](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0258-add-digits) |
 ## Backtracking
 |  |
@@ -42,6 +43,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 | [0044-wildcard-matching](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0071-simplify-path) |
 | [0257-binary-tree-paths](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0257-binary-tree-paths) |
@@ -69,6 +71,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0258-add-digits) |
 ## Number Theory
@@ -142,4 +145,8 @@ A repository for storing solutions to daily LeetCode coding challenges.
 | ------- |
 | [0049-group-anagrams](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0075-sort-colors) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
