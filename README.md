@@ -8,6 +8,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 | ------- |
 | [0039-combination-sum](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0066-plus-one) |
@@ -38,6 +39,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 | ------- |
 | [0043-multiply-strings](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0071-simplify-path) |
@@ -128,6 +130,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0049-group-anagrams) |
 | [0952-word-subsets](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0952-word-subsets) |
 ## Two Pointers
 |  |
@@ -136,5 +139,6 @@ A repository for storing solutions to daily LeetCode coding challenges.
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
