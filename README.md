@@ -52,6 +52,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 | [1524-string-matching-in-an-array](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -102,6 +103,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 | ------- |
 | [0071-simplify-path](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0084-largest-rectangle-in-histogram) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 | ------- |
 | [0044-wildcard-matching](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0044-wildcard-matching) |
 | [1502-construct-k-palindrome-strings](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/1502-construct-k-palindrome-strings) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Recursion
 |  |
 | ------- |
