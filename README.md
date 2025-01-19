@@ -16,6 +16,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 | [0068-text-justification](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0084-largest-rectangle-in-histogram) |
+| [0407-trapping-rain-water-ii](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0407-trapping-rain-water-ii) |
 | [0952-word-subsets](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -169,4 +170,13 @@ A repository for storing solutions to daily LeetCode coding challenges.
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0036-valid-sudoku) |
+| [0407-trapping-rain-water-ii](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0407-trapping-rain-water-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0407-trapping-rain-water-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0407-trapping-rain-water-ii) |
 <!---LeetCode Topics End-->
