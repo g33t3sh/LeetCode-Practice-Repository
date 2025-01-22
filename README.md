@@ -13,6 +13,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 | [0049-group-anagrams](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0057-insert-interval) |
+| [0064-minimum-path-sum](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0075-sort-colors) |
@@ -124,6 +125,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 | ------- |
 | [0044-wildcard-matching](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0064-minimum-path-sum) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 | ------- |
 | [0036-valid-sudoku](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0064-minimum-path-sum) |
 | [0407-trapping-rain-water-ii](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0407-trapping-rain-water-ii) |
 | [1876-map-of-highest-peak](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/1876-map-of-highest-peak) |
 | [2685-first-completely-painted-row-or-column](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/2685-first-completely-painted-row-or-column) |
