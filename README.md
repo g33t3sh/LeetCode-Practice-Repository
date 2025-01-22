@@ -17,6 +17,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 | [0066-plus-one](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0084-largest-rectangle-in-histogram) |
 | [0407-trapping-rain-water-ii](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0407-trapping-rain-water-ii) |
 | [0952-word-subsets](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0952-word-subsets) |
@@ -42,6 +43,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 | ------- |
 | [0039-combination-sum](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0039-combination-sum) |
 | [0052-n-queens-ii](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0052-n-queens-ii) |
+| [0079-word-search](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0257-binary-tree-paths) |
 ## String
 |  |
@@ -54,6 +56,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 | [0067-add-binary](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0257-binary-tree-paths) |
 | [0952-word-subsets](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/1502-construct-k-palindrome-strings) |
@@ -71,6 +74,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0386-lexicographical-numbers) |
 ## Binary Tree
@@ -179,6 +183,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 | [0036-valid-sudoku](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0079-word-search) |
 | [0407-trapping-rain-water-ii](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0407-trapping-rain-water-ii) |
 | [1876-map-of-highest-peak](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/1876-map-of-highest-peak) |
 | [2685-first-completely-painted-row-or-column](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/2685-first-completely-painted-row-or-column) |
