@@ -9,6 +9,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 | [0036-valid-sudoku](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0053-maximum-subarray) |
@@ -130,6 +131,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0064-minimum-path-sum) |
 ## Rolling Hash
@@ -144,6 +146,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0045-jump-game-ii) |
 | [1502-construct-k-palindrome-strings](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/2509-minimize-xor) |
