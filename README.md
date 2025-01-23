@@ -21,6 +21,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 | [0084-largest-rectangle-in-histogram](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0084-largest-rectangle-in-histogram) |
 | [0407-trapping-rain-water-ii](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0407-trapping-rain-water-ii) |
 | [0952-word-subsets](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0952-word-subsets) |
+| [1396-count-servers-that-communicate](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/1396-count-servers-that-communicate) |
 | [1524-string-matching-in-an-array](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/1524-string-matching-in-an-array) |
 | [1876-map-of-highest-peak](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -77,6 +78,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 | [0079-word-search](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0386-lexicographical-numbers) |
+| [1396-count-servers-that-communicate](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/1396-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 ## Counting
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/1502-construct-k-palindrome-strings) |
 ## Matrix
 |  |
@@ -185,15 +188,21 @@ A repository for storing solutions to daily LeetCode coding challenges.
 | [0064-minimum-path-sum](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0079-word-search) |
 | [0407-trapping-rain-water-ii](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0407-trapping-rain-water-ii) |
+| [1396-count-servers-that-communicate](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/1876-map-of-highest-peak) |
 | [2685-first-completely-painted-row-or-column](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/2685-first-completely-painted-row-or-column) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0407-trapping-rain-water-ii) |
+| [1396-count-servers-that-communicate](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/1876-map-of-highest-peak) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0407-trapping-rain-water-ii) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
