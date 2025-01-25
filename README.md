@@ -42,6 +42,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 | [0067-add-binary](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0258-add-digits) |
 | [0903-implement-rand10-using-rand7](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0903-implement-rand10-using-rand7) |
+| [0915-generate-random-point-in-a-circle](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0915-generate-random-point-in-a-circle) |
 ## Backtracking
 |  |
 | ------- |
@@ -215,12 +216,18 @@ A repository for storing solutions to daily LeetCode coding challenges.
 |  |
 | ------- |
 | [0903-implement-rand10-using-rand7](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0903-implement-rand10-using-rand7) |
+| [0915-generate-random-point-in-a-circle](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0915-generate-random-point-in-a-circle) |
 ## Randomized
 |  |
 | ------- |
 | [0903-implement-rand10-using-rand7](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0903-implement-rand10-using-rand7) |
+| [0915-generate-random-point-in-a-circle](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0915-generate-random-point-in-a-circle) |
 ## Probability and Statistics
 |  |
 | ------- |
 | [0903-implement-rand10-using-rand7](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0903-implement-rand10-using-rand7) |
+## Geometry
+|  |
+| ------- |
+| [0915-generate-random-point-in-a-circle](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0915-generate-random-point-in-a-circle) |
 <!---LeetCode Topics End-->
