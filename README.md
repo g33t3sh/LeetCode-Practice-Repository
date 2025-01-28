@@ -11,6 +11,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 | [0041-first-missing-positive](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0053-maximum-subarray) |
@@ -48,6 +49,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 | ------- |
 | [0039-combination-sum](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0047-permutations-ii) |
 | [0052-n-queens-ii](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0257-binary-tree-paths) |
