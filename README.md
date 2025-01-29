@@ -7,6 +7,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0045-jump-game-ii) |
@@ -47,6 +48,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0047-permutations-ii) |
@@ -166,6 +168,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0049-group-anagrams) |
 | [0952-word-subsets](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0952-word-subsets) |
@@ -194,6 +197,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0079-word-search) |
