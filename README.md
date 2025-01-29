@@ -85,6 +85,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 | [0079-word-search](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0386-lexicographical-numbers) |
+| [0684-redundant-connection](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/1396-count-servers-that-communicate) |
 ## Binary Tree
 |  |
@@ -204,6 +205,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0407-trapping-rain-water-ii) |
+| [0684-redundant-connection](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/1876-map-of-highest-peak) |
 ## Heap (Priority Queue)
@@ -213,6 +215,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/1396-count-servers-that-communicate) |
 ## Rejection Sampling
 |  |
@@ -232,4 +235,8 @@ A repository for storing solutions to daily LeetCode coding challenges.
 |  |
 | ------- |
 | [0915-generate-random-point-in-a-circle](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0915-generate-random-point-in-a-circle) |
+## Graph
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
