@@ -177,6 +177,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
@@ -243,4 +244,8 @@ A repository for storing solutions to daily LeetCode coding challenges.
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0684-redundant-connection) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
