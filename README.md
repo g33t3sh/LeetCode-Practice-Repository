@@ -17,6 +17,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 | [0049-group-anagrams](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0066-plus-one) |
@@ -185,6 +186,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0075-sort-colors) |
 ## Bit Manipulation
 |  |
