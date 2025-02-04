@@ -23,6 +23,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 | [0066-plus-one](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0084-largest-rectangle-in-histogram) |
 | [0407-trapping-rain-water-ii](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0407-trapping-rain-water-ii) |
@@ -55,6 +56,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 | [0046-permutations](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0047-permutations-ii) |
 | [0052-n-queens-ii](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0257-binary-tree-paths) |
 ## String
@@ -192,6 +194,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0078-subsets) |
 | [2509-minimize-xor](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/2509-minimize-xor) |
 ## Counting
 |  |
