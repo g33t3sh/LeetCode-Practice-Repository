@@ -77,6 +77,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 | [1524-string-matching-in-an-array](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -178,6 +179,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 | [0049-group-anagrams](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0049-group-anagrams) |
 | [0952-word-subsets](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/1502-construct-k-palindrome-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2685-first-completely-painted-row-or-column](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/2685-first-completely-painted-row-or-column) |
 ## Two Pointers
 |  |
@@ -201,6 +203,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/1502-construct-k-palindrome-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Matrix
 |  |
 | ------- |
