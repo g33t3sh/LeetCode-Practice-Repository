@@ -144,6 +144,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0148-sort-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -188,12 +189,14 @@ A repository for storing solutions to daily LeetCode coding challenges.
 | ------- |
 | [0061-rotate-list](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0148-sort-list) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0148-sort-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -262,4 +265,9 @@ A repository for storing solutions to daily LeetCode coding challenges.
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0061-rotate-list) |
+| [0148-sort-list](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
