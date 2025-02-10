@@ -17,6 +17,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 | [0049-group-anagrams](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0059-spiral-matrix-ii) |
@@ -151,6 +152,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 | [0044-wildcard-matching](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0064-minimum-path-sum) |
 ## Rolling Hash
 |  |
@@ -165,6 +167,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 | ------- |
 | [0044-wildcard-matching](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0055-jump-game) |
 | [1502-construct-k-palindrome-strings](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/2509-minimize-xor) |
