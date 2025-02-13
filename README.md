@@ -46,6 +46,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 | [0043-multiply-strings](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0258-add-digits) |
@@ -178,6 +179,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 | ------- |
 | [0044-wildcard-matching](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0060-permutation-sequence) |
 ## Hash Table
 |  |
 | ------- |
