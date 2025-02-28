@@ -75,6 +75,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 | [0068-text-justification](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0091-decode-ways) |
 | [0257-binary-tree-paths](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0257-binary-tree-paths) |
 | [0299-bulls-and-cows](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0299-bulls-and-cows) |
 | [0952-word-subsets](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0952-word-subsets) |
@@ -158,6 +159,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 | [0055-jump-game](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0064-minimum-path-sum) |
+| [0091-decode-ways](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0091-decode-ways) |
 ## Rolling Hash
 |  |
 | ------- |
