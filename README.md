@@ -76,6 +76,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 | [0071-simplify-path](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0257-binary-tree-paths) |
+| [0299-bulls-and-cows](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0299-bulls-and-cows) |
 | [0952-word-subsets](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/1524-string-matching-in-an-array) |
@@ -187,6 +188,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 | [0037-sudoku-solver](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0049-group-anagrams) |
+| [0299-bulls-and-cows](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0299-bulls-and-cows) |
 | [0952-word-subsets](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -213,6 +215,7 @@ A repository for storing solutions to daily LeetCode coding challenges.
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/0299-bulls-and-cows) |
 | [1396-count-servers-that-communicate](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/g33t3sh/LeetCode-Practice-Repository/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
